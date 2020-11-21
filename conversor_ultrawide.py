@@ -24,9 +24,6 @@ PROP_REF = 1.777777777777778
 # info = json.dumps(video_streams[0], indent=4)
 # print(info)
 
-# Se de alguma forma conseguir, seria bom tirar o verbose do ffmpeg
-
-
 def apagarDiretorioTemporario():
     """
     Apaga o direótio temporário, caso ele exista
