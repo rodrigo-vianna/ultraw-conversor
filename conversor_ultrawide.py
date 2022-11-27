@@ -19,7 +19,7 @@ DIR_TMP = os.path.normpath('./tmp')
 PROP_REF = 1.777777777777778
 
 # Metadados dos videos
-# probe = ffmpeg.probe("./GeForceExperience/Valorant/rinha-de-faca.mp4")
+# probe = ffmpeg.probe("./video.mp4")
 # video_streams = [stream for stream in probe["streams"] if stream["codec_type"] == "video"]
 # info = json.dumps(video_streams[0], indent=4)
 # print(info)
